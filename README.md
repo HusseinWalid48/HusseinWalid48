@@ -22,4 +22,4 @@ I build lightweight Python scripts and CMD tools focused on network control, sys
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=HusseinWalid48&icon=0&color=orange)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=HusseinWalid48&icon=0&color=green)](https://visitcount.itsvg.in)
