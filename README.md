@@ -1,6 +1,4 @@
-# Hussein Walid
-
-# Hey, I'm Hussein 👋
+# Hey, I'm Hussein Walid 👋
 
 **Python Developer | Building PC Utilities & Network Scripts**
 
