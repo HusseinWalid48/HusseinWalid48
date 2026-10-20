@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hacker.gif" width="600">
-</div>
+# Hussein Walid
 
 # Hey, I'm Hussein 👋
 
@@ -11,7 +9,7 @@ I build lightweight Python scripts and CMD tools focused on network control, sys
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1381642018219884616) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Husseinwalid2010x@gmail.com) 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cyber.gif" width="100%">
+---
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -24,6 +22,6 @@ I build lightweight Python scripts and CMD tools focused on network control, sys
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HusseinWalid48&theme=merko&no-frame=false&no-bg=true&margin-w=4)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cyber.gif" width="100%">
+---
 
-[![](https://komarev.com/ghpvc/?username=HusseinWalid48&icon=0&color=blue)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=HusseinWalid48&icon=0&color=orange)](https://visitcount.itsvg.in)
