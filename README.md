@@ -1,4 +1,6 @@
-# Hey, I'm Hussein Walid 👋
+# Hussein Walid
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&vCenter=true&width=600&lines=Hey,+I'm+Hussein+Walid+%F0%9F%91%8B" alt="Typing SVG" />
 
 **Python Developer | Building PC Utilities & Network Scripts**
 
