@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hacker.gif" width="600">
 </div>
 
-# Hey, I'm Hussein 👋
+# Hey, I'm Hussein Walid 👋
 
 **Python Developer | Building PC Utilities & Network Scripts**
 
